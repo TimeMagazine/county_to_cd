@@ -1,0 +1,24 @@
+{
+  "name": "county_to_cd",
+  "version": "0.0.0",
+  "description": "County to CD converting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/TimeMagazine/county_to_cd.git"
+  },
+  "keywords": [
+    "county",
+    "congressional",
+    "district",
+    "map"
+  ],
+  "author": "Chris Wilson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TimeMagazine/county_to_cd/issues"
+  }
+}
